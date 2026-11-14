@@ -8,8 +8,10 @@ I like finding bugs before users do, and writing the test that keeps them from c
 
 | 📝 To do | 🔄 In progress | ✅ Done |
 |---|---|---|
-| Next test idea | Growing coverage in [playwright-demo](https://github.com/layshleal/playwright-demo) | 85+ automated tests running in CI |
+| Next test idea | Growing coverage in [playwright-demo](https://github.com/layshleal/playwright-demo) | 100+ automated tests running in CI |
 | ☕ More coffee | | UI · API contracts (zod) · accessibility (axe) · visual regression · i18n EN/IT/PT |
+| | | Negative API tests that caught 3 real API defects |
+| | | [Test suite audit checklist](https://github.com/layshleal/playwright-demo/blob/main/docs/test-suite-audit.md) |
 | | | [Live test report](https://layshleal.github.io/playwright-demo/) |
 
 ### 🧰 Toolbox
