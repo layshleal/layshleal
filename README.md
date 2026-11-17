@@ -10,7 +10,7 @@ I like finding bugs before users do, and writing the test that keeps them from c
 
 | | What you get |
 |---|---|
-| **Website QA audit before launch** · €190 | Functional, mobile and accessibility (EAA / WCAG 2.1 AA) check, report in Italian or English with evidence and how to fix each issue, 20-minute call. 5 working days. White label for agencies. |
+| **Website QA audit before launch** | Functional, mobile and accessibility (EAA / WCAG 2.1 AA) check, report in Italian or English with evidence and how to fix each issue, 20-minute call. 5 working days. White label for agencies. |
 | **Test automation setup** | A Playwright + TypeScript suite that runs in CI: UI, API contracts, accessibility. |
 | **Flaky test fixing** | Find out why tests fail at random, fix the cause, and prove it with repeated runs. |
 
